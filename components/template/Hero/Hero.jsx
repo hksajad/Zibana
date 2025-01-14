@@ -13,7 +13,7 @@ const Hero = () => {
               alt="Hero_img"
               width={496}
               height={641}
-              className="max-[992px]:max-w-[300px]"
+              className="max-[992px]:max-w-[300px] max-[768px]:max-w-full"
             />
           </div>
           {/* caption hero */}
