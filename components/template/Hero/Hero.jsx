@@ -8,13 +8,13 @@ const Hero = () => {
         <section className="Hero flex justify-between flex-row-reverse items-center max-[992px]:mt-10 max-[768px]:w-full max-[768px]:flex-col">
           {/* img hero */}
           <div className="img_Hero">
-            {/* <Image
+            <Image
               src="/img/Hero_img.png"
               alt="Hero_img"
               width={496}
               height={641}
               className="max-[992px]:max-w-[300px] max-[768px]:max-w-full"
-            /> */}
+            />
           </div>
           {/* caption hero */}
           <div className="cantent_Hero max-[768px]:mt-5">
