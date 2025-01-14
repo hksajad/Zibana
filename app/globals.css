@@ -11,6 +11,7 @@ html{
 }
 body{
     background-color: #FFF5F0;
+    overflow-x: hidden;
 }
 li{
     list-style-type: none;
