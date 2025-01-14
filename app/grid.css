@@ -335,7 +335,7 @@ html {
 
 @media (min-width: 1400px) {
     .container {
-        width: 1370px;
+        width: 1200px;
     }
     .col-xxl-1 {
         width: 8.333333%;
