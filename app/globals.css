@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 
 }
 html{
@@ -13,7 +14,6 @@ html{
 }
 body{
     background-color: #FFF5F0;
-    overflow-x: hidden;
 }
 li{
     list-style-type: none;
