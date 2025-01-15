@@ -1,0 +1,13 @@
+.feature{
+    width: 100%;
+    
+    
+}
+.img_features{
+    margin-top: -16rem;
+}
+@media screen and (max-width: 992px) {
+    .img_features{
+        margin-top: -8rem;
+    }
+}
